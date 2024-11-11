@@ -22,6 +22,6 @@
   },
   "packageManager": "yarn@4.5.1",
   "resolutions": {
-    "@redwoodjs/auth-dbauth-api": "https://verdaccio.tobbe.dev/@redwoodjs/auth-dbauth-api/-/auth-dbauth-api-8.0.0-5.tgz"
+    "@redwoodjs/auth-dbauth-api": "https://verdaccio.tobbe.dev/@redwoodjs/auth-dbauth-api/-/auth-dbauth-api-8.0.0-6.tgz"
   }
 }
