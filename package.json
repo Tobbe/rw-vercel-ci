@@ -20,5 +20,8 @@
   "prisma": {
     "seed": "yarn rw exec seed"
   },
-  "packageManager": "yarn@4.5.1"
+  "packageManager": "yarn@4.5.1",
+  "resolutions": {
+    "@redwoodjs/auth-dbauth-api": "https://verdaccio.tobbe.dev/@redwoodjs/auth-dbauth-api/-/auth-dbauth-api-8.0.0-1.tgz"
+  }
 }
