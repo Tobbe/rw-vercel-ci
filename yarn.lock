@@ -4360,15 +4360,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@redwoodjs/auth-dbauth-api@https://verdaccio.tobbe.dev/@redwoodjs/auth-dbauth-api/-/auth-dbauth-api-8.0.0-9.tgz":
-  version: 8.0.0-9
-  resolution: "@redwoodjs/auth-dbauth-api@https://verdaccio.tobbe.dev/@redwoodjs/auth-dbauth-api/-/auth-dbauth-api-8.0.0-9.tgz"
+"@redwoodjs/auth-dbauth-api@https://verdaccio.tobbe.dev/@redwoodjs/auth-dbauth-api/-/auth-dbauth-api-8.0.0-10.tgz":
+  version: 8.0.0-10
+  resolution: "@redwoodjs/auth-dbauth-api@https://verdaccio.tobbe.dev/@redwoodjs/auth-dbauth-api/-/auth-dbauth-api-8.0.0-10.tgz"
   dependencies:
     "@redwoodjs/project-config": "npm:8.4.0"
     base64url: "npm:3.0.1"
     md5: "npm:2.3.0"
     uuid: "npm:10.0.0"
-  checksum: 10c0/84c298bf2d507e21f22fcec89cf7bdd9b3499529e148e7d5637d47b486c14b48e4945af5e0c1d3629e5e898d01fdee7eed654d2d8103dfde50707248a290133e
+  checksum: 10c0/003dce4cc8e86af1c5ae56c97fbbbf020d9ef1f551b00854234b1c03532ca1ce91fdc915156bbc12ede9a81b6e4a556f966f5275fbd6a1b4c8b8bfda6f6b4529
   languageName: node
   linkType: hard
 
