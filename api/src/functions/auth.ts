@@ -62,6 +62,7 @@ export const handler = async (
     // by the `logIn()` function from `useAuth()` in the form of:
     // `{ message: 'Error message' }`
     handler: (user) => {
+      console.log('loginOptions::handler user', user)
       return user
     },
 
@@ -198,5 +199,6 @@ export const handler = async (
     signup: signupOptions,
   })
 
+  console.log('about to invoke auth handler')
   return await authHandler.invoke()
 }
