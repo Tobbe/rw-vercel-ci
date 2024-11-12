@@ -4331,9 +4331,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@redwoodjs/api@npm:8.4.1-next.1":
-  version: 8.4.1-next.1
-  resolution: "@redwoodjs/api@npm:8.4.1-next.1"
+"@redwoodjs/api@https://verdaccio.tobbe.dev/@redwoodjs/api/-/api-8.0.0-1.tgz":
+  version: 8.0.0-1
+  resolution: "@redwoodjs/api@https://verdaccio.tobbe.dev/@redwoodjs/api/-/api-8.0.0-1.tgz"
   dependencies:
     "@prisma/client": "npm:5.20.0"
     "@whatwg-node/fetch": "npm:0.9.21"
@@ -4356,19 +4356,19 @@ __metadata:
     rw: ./dist/bins/redwood.js
     rwfw: ./dist/bins/rwfw.js
     tsc: ./dist/bins/tsc.js
-  checksum: 10c0/7dc1ffeef9d697422c667377bbea8f1c54f06b285d7114523d6b5451de2348b1e19030996e9d5f71eeb506ad07c6afcbf9c3585e45c6fa254008779dc3fa9272
+  checksum: 10c0/923d3eb678528d4fcbcb029eaecb1a29b133df4ca69ae83090367979aaa80f5ffaf0af595112c77fc6450f718e73dd5aef147459c93ef39d4d560380ef7fa3da
   languageName: node
   linkType: hard
 
-"@redwoodjs/auth-dbauth-api@https://verdaccio.tobbe.dev/@redwoodjs/auth-dbauth-api/-/auth-dbauth-api-8.0.0-6.tgz":
-  version: 8.0.0-6
-  resolution: "@redwoodjs/auth-dbauth-api@https://verdaccio.tobbe.dev/@redwoodjs/auth-dbauth-api/-/auth-dbauth-api-8.0.0-6.tgz"
+"@redwoodjs/auth-dbauth-api@https://verdaccio.tobbe.dev/@redwoodjs/auth-dbauth-api/-/auth-dbauth-api-8.0.0-7.tgz":
+  version: 8.0.0-7
+  resolution: "@redwoodjs/auth-dbauth-api@https://verdaccio.tobbe.dev/@redwoodjs/auth-dbauth-api/-/auth-dbauth-api-8.0.0-7.tgz"
   dependencies:
     "@redwoodjs/project-config": "npm:8.4.0"
     base64url: "npm:3.0.1"
     md5: "npm:2.3.0"
     uuid: "npm:10.0.0"
-  checksum: 10c0/43ef777194717382d4ee75207d9bd8ce4557e4c3609c258a3735896deff4fffa07009e49f41a5137587fe8c9ea7997145696d6dd6d503b1d9196884fce88a504
+  checksum: 10c0/1754c12457ffec1dc5687af288076904d4aaa7ef4feadb8f7f825aee43df4d64e1938690c4eb27d17b2c98b97c9e1914653d03328c581c3d6be6e039d5fad4fd
   languageName: node
   linkType: hard
 
