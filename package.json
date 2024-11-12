@@ -23,6 +23,6 @@
   "packageManager": "yarn@4.5.1",
   "resolutions": {
     "@redwoodjs/api": "https://verdaccio.tobbe.dev/@redwoodjs/api/-/api-8.0.0-1.tgz",
-    "@redwoodjs/auth-dbauth-api": "https://verdaccio.tobbe.dev/@redwoodjs/auth-dbauth-api/-/auth-dbauth-api-8.0.0-7.tgz"
+    "@redwoodjs/auth-dbauth-api": "https://verdaccio.tobbe.dev/@redwoodjs/auth-dbauth-api/-/auth-dbauth-api-8.0.0-8.tgz"
   }
 }
